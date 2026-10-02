@@ -24,7 +24,7 @@
 [preload  storage="./data/bgimage/瑠衣スチル.png"  ]
 [preload  storage="./data/fgimage/default/プリクラ（瑠衣）.png"  ]
 [preload  storage="./data/fgimage/chara/3/本郷瑠衣立ち絵②.png"  ]
-[preload  storage="./data/bgimage/兄様のスチルですわ_(1).png"  ]
+[preload  storage="./data/bgimage/兄様のスチルですわよ.png"  ]
 [preload  storage="./data/bgimage/背景.png"  ]
 [preload  storage="./data/bgimage/八木佑希スチル.png"  ]
 [preload  storage="./data/bgimage/新しいボード.png"  ]

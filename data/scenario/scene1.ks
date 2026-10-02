@@ -885,7 +885,7 @@ QRコードから写真をスマホに取り込めるようだ。[p]
 [_tb_end_text]
 
 [chara_hide_all  time="500"  wait="true"  ]
-[bg  time="1000"  method="crossfade"  storage="兄様のスチルですわ_(1).png"  ]
+[bg  time="1000"  method="crossfade"  storage="兄様のスチルですわよ.png"  ]
 [tb_start_text mode=1 ]
 犯行時刻ごろは俺はアテンドをしていたからお客様に何と話しかけられたか覚えている。[p]
 まず、5時50分ごろに10歳ぐらいの男の子がにゃん吉と写真を撮りたいんだけど[p]
