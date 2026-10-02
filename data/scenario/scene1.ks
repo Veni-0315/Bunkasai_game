@@ -6,7 +6,7 @@
 [tb_image_hide  time="1000"  ]
 [bg  storage="rouka.jpg"  time="1000"  ]
 [tb_show_message_window  ]
-[chara_show  name="主人公"  time="1000"  wait="true"  storage="chara/7/新しいボード_(4).png"  width="1280"  height="720"  left="-3"  top="-1"  reflect="false"  ]
+[chara_show  name="主人公"  time="1000"  wait="true"  storage="chara/7/透明.png"  width="1280"  height="720"  left="-3"  top="-1"  reflect="false"  ]
 [tb_start_text mode=1 ]
 2026年9月1日。[p]
 私はこの桜庭高校（さくらばこうこう）に訳あって転校してきた。[p]
@@ -47,7 +47,7 @@
 ……それはよかった。ここの階段、怪我をしやすい人が多いんだ。[p]
 [_tb_end_text]
 
-[chara_show  name="？？？"  time="1000"  wait="true"  storage="chara/8/新しいボード.png"  width="1280"  height="720"  ]
+[chara_show  name="？？？"  time="1000"  wait="true"  storage="chara/8/透明.png"  width="1280"  height="720"  ]
 [tb_start_text mode=1 ]
 #？？？
 おい二階堂、ちょっといいか。[p]
@@ -88,7 +88,7 @@
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="生徒会室（日中）.jpg"  ]
-[chara_show  name="？？？"  time="1000"  wait="true"  storage="chara/8/新しいボード.png"  width="1280"  height="720"  ]
+[chara_show  name="？？？"  time="1000"  wait="true"  storage="chara/8/透明.png"  width="1280"  height="720"  ]
 [tb_start_text mode=1 ]
 #？？？
 ……瑛。[p]
@@ -160,14 +160,14 @@
 [chara_hide  name="二階堂瑛"  time="1000"  wait="true"  pos_mode="true"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [bg  time="1000"  method="crossfade"  storage="room.jpg"  ]
-[chara_show  name="竹永朝日"  time="1000"  wait="true"  storage="chara/5/新しいボード_(1).png"  width="1280"  height="720"  left="37"  top="75"  reflect="false"  ]
+[chara_show  name="竹永朝日"  time="1000"  wait="true"  storage="chara/5/竹永朝日立ち絵1.png"  width="1280"  height="720"  left="37"  top="75"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #竹永朝日
 僕は生徒会長の竹永朝日（たけながあさひ）だ。[p]
 君に会って早々申し訳ないんだけれども……[p]
 [_tb_end_text]
 
-[chara_mod  name="竹永朝日"  time="600"  cross="true"  storage="chara/5/新しいボード_(3).png"  ]
+[chara_mod  name="竹永朝日"  time="600"  cross="true"  storage="chara/5/竹永朝日立ち絵2.png"  ]
 [tb_start_text mode=1 ]
 #竹永朝日
 書紀の二階堂君が昨日何者かの手によって殺された。[p]
@@ -188,7 +188,7 @@
 
 [_tb_end_text]
 
-[chara_mod  name="竹永朝日"  time="600"  cross="true"  storage="chara/5/新しいボード_(2).png"  ]
+[chara_mod  name="竹永朝日"  time="600"  cross="true"  storage="chara/5/竹永朝日立ち絵3.png"  ]
 [tb_start_text mode=1 ]
 もちろん、やってくれるよね？[p]
 [_tb_end_text]
@@ -230,7 +230,7 @@
 こうして私はやや無理やり二階堂瑛殺人事件の真相を探ることになった。[p]
 [_tb_end_text]
 
-[chara_mod  name="竹永朝日"  time="600"  cross="true"  storage="chara/5/新しいボード_(1).png"  ]
+[chara_mod  name="竹永朝日"  time="600"  cross="true"  storage="chara/5/竹永朝日立ち絵1.png"  ]
 [tb_start_text mode=1 ]
 #竹永朝日
 まずは事件の詳細から。[p]
@@ -357,7 +357,7 @@
 
 [tb_image_hide  time="1000"  ]
 [chara_move  name="松下陽奈乃"  anim="false"  time="300"  effect="linear"  wait="true"  left="303"  top="64"  width="1162"  height="654"  ]
-[chara_show  name="竹永朝日"  time="1000"  wait="true"  left="-202"  top="38"  width="1280"  height="720"  reflect="false"  storage="chara/5/新しいボード_(2).png"  ]
+[chara_show  name="竹永朝日"  time="1000"  wait="true"  left="-202"  top="38"  width="1280"  height="720"  reflect="false"  storage="chara/5/竹永朝日立ち絵3.png"  ]
 [tb_start_text mode=1 ]
 #竹永朝日
 どう？調査進んでる？[p]
@@ -416,7 +416,7 @@
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="room.jpg"  ]
-[chara_show  name="竹永朝日"  time="1000"  wait="true"  storage="chara/5/新しいボード_(1).png"  width="1280"  height="720"  left="-268"  top="3"  reflect="false"  ]
+[chara_show  name="竹永朝日"  time="1000"  wait="true"  storage="chara/5/竹永朝日立ち絵1.png"  width="1280"  height="720"  left="-268"  top="3"  reflect="false"  ]
 [chara_show  name="松下陽奈乃"  time="1000"  wait="true"  storage="chara/6/松下陽菜乃立ち絵①.png"  width="1291"  height="726"  left="255"  top="13"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #松下陽奈乃
@@ -476,7 +476,7 @@
 こちらですわ。[p]
 [_tb_end_text]
 
-[tb_image_show  time="1000"  storage="default/新しいボード_(2).png"  width="1447"  height="806"  x="-1"  y="-48"  _clickable_img=""  name="img_129"  ]
+[tb_image_show  time="1000"  storage="default/瑠衣アリバイ.png"  width="1336"  height="749"  x="-15"  y="-11"  _clickable_img=""  name="img_129"  ]
 [tb_start_text mode=1 ]
 #主人公
 証拠品:桜庭遊園地のマスコットと撮った写真。[p]
@@ -612,7 +612,7 @@
 これが証拠のシフト表だ。[p]
 [_tb_end_text]
 
-[tb_image_show  time="1000"  storage="default/遊園地着ぐるみシフト管理表_(1).jpg"  width="1755"  height="1240"  ]
+[tb_image_show  time="1000"  storage="default/遊園地着ぐるみシフト管理表_(1).jpg"  width="1755"  height="1240"  name="img_161"  ]
 [tb_start_text mode=1 ]
 #主人公
 証拠品：遊園地のバイトのシフト。[p]
@@ -680,7 +680,7 @@
 
 *select
 
-[chara_show  name="竹永朝日"  time="2"  wait="true"  storage="chara/5/新しいボード_(1).png"  width="1205"  height="671"  left="-451"  top="52"  reflect="false"  ]
+[chara_show  name="竹永朝日"  time="2"  wait="true"  storage="chara/5/竹永朝日立ち絵1.png"  width="1280"  height="720"  left="-451"  top="52"  reflect="false"  ]
 [chara_show  name="本郷理久"  time="2"  wait="true"  storage="chara/4/本郷理久立ち絵①.png"  width="1267"  height="713"  left="-269"  top="38"  reflect="false"  ]
 [chara_show  name="松下陽奈乃"  time="2"  wait="true"  storage="chara/6/松下陽菜乃立ち絵①.png"  width="1204"  height="675"  left="47"  top="65"  reflect="false"  ]
 [chara_show  name="八木佑希"  time="2"  wait="true"  storage="chara/2/八木佑希立ち絵③.png"  width="1202"  height="676"  left="266"  top="51"  reflect="false"  ]
@@ -700,7 +700,7 @@
 *Asahi
 
 [chara_hide_all  time="1000"  wait="true"  ]
-[chara_show  name="竹永朝日"  time="1000"  wait="true"  storage="chara/5/新しいボード_(1).png"  width="1280"  height="720"  left="-254"  top="6"  reflect="false"  ]
+[chara_show  name="竹永朝日"  time="1000"  wait="true"  storage="chara/5/竹永朝日立ち絵1.png"  width="1280"  height="720"  left="-254"  top="6"  reflect="false"  ]
 [chara_show  name="松下陽奈乃"  time="1000"  wait="true"  storage="chara/6/松下陽菜乃立ち絵①.png"  width="1235"  height="686"  left="172"  top="40"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #竹永朝日
@@ -713,7 +713,7 @@
 昨日会った時は着てなかったもんね笑[p]
 [_tb_end_text]
 
-[chara_mod  name="竹永朝日"  time="600"  cross="true"  storage="chara/5/新しいボード_(3).png"  ]
+[chara_mod  name="竹永朝日"  time="600"  cross="true"  storage="chara/5/竹永朝日立ち絵2.png"  ]
 [tb_start_text mode=1 ]
 #竹永朝日
 ちょ、ちょっと陽奈乃……[p]
@@ -723,7 +723,7 @@
 
 [_tb_end_text]
 
-[chara_mod  name="竹永朝日"  time="600"  cross="true"  storage="chara/5/新しいボード_(2).png"  ]
+[chara_mod  name="竹永朝日"  time="600"  cross="true"  storage="chara/5/竹永朝日立ち絵3.png"  ]
 [tb_start_text mode=1 ]
 よければ、君の目でブレザーを確認してくれるかい？[p]
 [_tb_end_text]
@@ -742,7 +742,7 @@
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="room.jpg"  ]
-[chara_show  name="竹永朝日"  time="1000"  wait="true"  storage="chara/5/新しいボード_(1).png"  width="1280"  height="720"  left="0"  top="4"  reflect="false"  ]
+[chara_show  name="竹永朝日"  time="1000"  wait="true"  storage="chara/5/竹永朝日立ち絵1.png"  width="1280"  height="720"  left="0"  top="4"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #主人公
 はい、大丈夫です。[p]
