@@ -1,2 +1,2 @@
-[preload  storage="./data/bgimage/タイトル_(1).png"  ]
+[preload  storage="./data/bgimage/タイトル画面.png"  ]
 [return]
