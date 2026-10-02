@@ -1,4 +1,6 @@
 //ティラノビルダーによる自動ビルド　
+;debugMenu.visible=false
+;configSave=webstorage
 ;global.config_version=6.00
 ;System.title=あの日、君がそこにいた。
 ;projectID=Neko
@@ -34,7 +36,6 @@
 ;configVisible=true
 ;configLeft=-1
 ;configTop=-1
-;configSave=webstorage
 ;configThumbnail=true
 ;configThumbnailQuality=middle
 ;configThumbnailScale=0.3
@@ -66,7 +67,6 @@
 ;mt=16
 ;mw=960-32
 ;mh=640-32
-;debugMenu.visible=true
 ;frameColor=0x000000
 ;frameOpacity=128
 ;defaultAutoReturn=true

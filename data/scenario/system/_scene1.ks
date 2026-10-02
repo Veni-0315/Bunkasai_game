@@ -17,7 +17,7 @@
 [preload  storage="./data/fgimage/chara/2/八木佑希立ち絵①.png"  ]
 [preload  storage="./data/fgimage/default/入館記録.jpg"  ]
 [preload  storage="./data/fgimage/chara/2/八木佑希立ち絵③.png"  ]
-[preload  storage="./data/fgimage/default/遊園地着ぐるみシフト管理表_(1).jpg"  ]
+[preload  storage="./data/fgimage/default/遊園地着ぐるみシフト管理表_(1).jpg"  ]
 [preload  storage="./data/fgimage/chara/4/本郷理久立ち絵③.png"  ]
 [preload  storage="./data/fgimage/chara/4/本郷理久立ち絵②.png"  ]
 [preload  storage="./data/bgimage/朝日スチル.png"  ]

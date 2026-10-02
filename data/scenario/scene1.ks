@@ -476,7 +476,7 @@
 こちらですわ。[p]
 [_tb_end_text]
 
-[tb_image_show  time="1000"  storage="default/新しいボード_(2).png"  width="1920"  height="1080"  x="-271"  y="-97"  _clickable_img=""  name="img_129"  ]
+[tb_image_show  time="1000"  storage="default/新しいボード_(2).png"  width="1447"  height="806"  x="-1"  y="-48"  _clickable_img=""  name="img_129"  ]
 [tb_start_text mode=1 ]
 #主人公
 証拠品:桜庭遊園地のマスコットと撮った写真。[p]
@@ -612,7 +612,7 @@
 これが証拠のシフト表だ。[p]
 [_tb_end_text]
 
-[tb_image_show  time="1000"  storage="default/遊園地着ぐるみシフト管理表_(1).jpg"  width="1755"  height="1240"  ]
+[tb_image_show  time="1000"  storage="default/遊園地着ぐるみシフト管理表_(1).jpg"  width="1755"  height="1240"  ]
 [tb_start_text mode=1 ]
 #主人公
 証拠品：遊園地のバイトのシフト。[p]
